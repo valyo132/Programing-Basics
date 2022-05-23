@@ -1,0 +1,14 @@
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\bin\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.exe
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\bin\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.deps.json
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\bin\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.runtimeconfig.json
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\bin\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.runtimeconfig.dev.json
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\bin\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.dll
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\bin\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.pdb
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\obj\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.csproj.AssemblyReference.cache
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\obj\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\obj\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.AssemblyInfoInputs.cache
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\obj\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.AssemblyInfo.cs
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\obj\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.csproj.CoreCompileInputs.cache
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\obj\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.dll
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\obj\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.pdb
+M:\SoftUni\Лекция 1 - 26.02.2022\Лекция 1 - 26.02.2022\obj\Debug\netcoreapp3.1\Лекция 1 - 26.02.2022.genruntimeconfig.cache

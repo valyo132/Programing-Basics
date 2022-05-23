@@ -1,0 +1,14 @@
+M:\SoftUni\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.exe
+M:\SoftUni\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.deps.json
+M:\SoftUni\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.runtimeconfig.json
+M:\SoftUni\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.runtimeconfig.dev.json
+M:\SoftUni\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.dll
+M:\SoftUni\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.pdb
+M:\SoftUni\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.csproj.AssemblyReference.cache
+M:\SoftUni\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.AssemblyInfoInputs.cache
+M:\SoftUni\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.AssemblyInfo.cs
+M:\SoftUni\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.csproj.CoreCompileInputs.cache
+M:\SoftUni\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.dll
+M:\SoftUni\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.pdb
+M:\SoftUni\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.genruntimeconfig.cache

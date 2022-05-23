@@ -1,0 +1,14 @@
+M:\SoftUni\Mobile operator\bin\Debug\netcoreapp3.1\Mobile operator.exe
+M:\SoftUni\Mobile operator\bin\Debug\netcoreapp3.1\Mobile operator.deps.json
+M:\SoftUni\Mobile operator\bin\Debug\netcoreapp3.1\Mobile operator.runtimeconfig.json
+M:\SoftUni\Mobile operator\bin\Debug\netcoreapp3.1\Mobile operator.runtimeconfig.dev.json
+M:\SoftUni\Mobile operator\bin\Debug\netcoreapp3.1\Mobile operator.dll
+M:\SoftUni\Mobile operator\bin\Debug\netcoreapp3.1\Mobile operator.pdb
+M:\SoftUni\Mobile operator\obj\Debug\netcoreapp3.1\Mobile operator.csproj.AssemblyReference.cache
+M:\SoftUni\Mobile operator\obj\Debug\netcoreapp3.1\Mobile operator.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Mobile operator\obj\Debug\netcoreapp3.1\Mobile operator.AssemblyInfoInputs.cache
+M:\SoftUni\Mobile operator\obj\Debug\netcoreapp3.1\Mobile operator.AssemblyInfo.cs
+M:\SoftUni\Mobile operator\obj\Debug\netcoreapp3.1\Mobile operator.csproj.CoreCompileInputs.cache
+M:\SoftUni\Mobile operator\obj\Debug\netcoreapp3.1\Mobile operator.dll
+M:\SoftUni\Mobile operator\obj\Debug\netcoreapp3.1\Mobile operator.pdb
+M:\SoftUni\Mobile operator\obj\Debug\netcoreapp3.1\Mobile operator.genruntimeconfig.cache

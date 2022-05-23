@@ -1,0 +1,14 @@
+M:\SoftUni\Тест Никола\bin\Debug\netcoreapp3.1\Тест Никола.exe
+M:\SoftUni\Тест Никола\bin\Debug\netcoreapp3.1\Тест Никола.deps.json
+M:\SoftUni\Тест Никола\bin\Debug\netcoreapp3.1\Тест Никола.runtimeconfig.json
+M:\SoftUni\Тест Никола\bin\Debug\netcoreapp3.1\Тест Никола.runtimeconfig.dev.json
+M:\SoftUni\Тест Никола\bin\Debug\netcoreapp3.1\Тест Никола.dll
+M:\SoftUni\Тест Никола\bin\Debug\netcoreapp3.1\Тест Никола.pdb
+M:\SoftUni\Тест Никола\obj\Debug\netcoreapp3.1\Тест Никола.csproj.AssemblyReference.cache
+M:\SoftUni\Тест Никола\obj\Debug\netcoreapp3.1\Тест Никола.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Тест Никола\obj\Debug\netcoreapp3.1\Тест Никола.AssemblyInfoInputs.cache
+M:\SoftUni\Тест Никола\obj\Debug\netcoreapp3.1\Тест Никола.AssemblyInfo.cs
+M:\SoftUni\Тест Никола\obj\Debug\netcoreapp3.1\Тест Никола.csproj.CoreCompileInputs.cache
+M:\SoftUni\Тест Никола\obj\Debug\netcoreapp3.1\Тест Никола.dll
+M:\SoftUni\Тест Никола\obj\Debug\netcoreapp3.1\Тест Никола.pdb
+M:\SoftUni\Тест Никола\obj\Debug\netcoreapp3.1\Тест Никола.genruntimeconfig.cache

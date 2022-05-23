@@ -1,0 +1,14 @@
+M:\SoftUni\Name Game\bin\Debug\netcoreapp3.1\Name Game.exe
+M:\SoftUni\Name Game\bin\Debug\netcoreapp3.1\Name Game.deps.json
+M:\SoftUni\Name Game\bin\Debug\netcoreapp3.1\Name Game.runtimeconfig.json
+M:\SoftUni\Name Game\bin\Debug\netcoreapp3.1\Name Game.runtimeconfig.dev.json
+M:\SoftUni\Name Game\bin\Debug\netcoreapp3.1\Name Game.dll
+M:\SoftUni\Name Game\bin\Debug\netcoreapp3.1\Name Game.pdb
+M:\SoftUni\Name Game\obj\Debug\netcoreapp3.1\Name Game.csproj.AssemblyReference.cache
+M:\SoftUni\Name Game\obj\Debug\netcoreapp3.1\Name Game.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Name Game\obj\Debug\netcoreapp3.1\Name Game.AssemblyInfoInputs.cache
+M:\SoftUni\Name Game\obj\Debug\netcoreapp3.1\Name Game.AssemblyInfo.cs
+M:\SoftUni\Name Game\obj\Debug\netcoreapp3.1\Name Game.csproj.CoreCompileInputs.cache
+M:\SoftUni\Name Game\obj\Debug\netcoreapp3.1\Name Game.dll
+M:\SoftUni\Name Game\obj\Debug\netcoreapp3.1\Name Game.pdb
+M:\SoftUni\Name Game\obj\Debug\netcoreapp3.1\Name Game.genruntimeconfig.cache

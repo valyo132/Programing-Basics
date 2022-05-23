@@ -1,0 +1,14 @@
+M:\SoftUni\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.exe
+M:\SoftUni\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.deps.json
+M:\SoftUni\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.runtimeconfig.json
+M:\SoftUni\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.runtimeconfig.dev.json
+M:\SoftUni\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.dll
+M:\SoftUni\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.pdb
+M:\SoftUni\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.csproj.AssemblyReference.cache
+M:\SoftUni\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.AssemblyInfoInputs.cache
+M:\SoftUni\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.AssemblyInfo.cs
+M:\SoftUni\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.csproj.CoreCompileInputs.cache
+M:\SoftUni\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.dll
+M:\SoftUni\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.pdb
+M:\SoftUni\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\SoftUni\Series\bin\Debug\netcoreapp3.1\Series.exe
+M:\SoftUni\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+M:\SoftUni\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+M:\SoftUni\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+M:\SoftUni\Series\bin\Debug\netcoreapp3.1\Series.dll
+M:\SoftUni\Series\bin\Debug\netcoreapp3.1\Series.pdb
+M:\SoftUni\Series\obj\Debug\netcoreapp3.1\Series.csproj.AssemblyReference.cache
+M:\SoftUni\Series\obj\Debug\netcoreapp3.1\Series.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+M:\SoftUni\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+M:\SoftUni\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+M:\SoftUni\Series\obj\Debug\netcoreapp3.1\Series.dll
+M:\SoftUni\Series\obj\Debug\netcoreapp3.1\Series.pdb
+M:\SoftUni\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache

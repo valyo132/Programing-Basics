@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Лекция 4 - 19-20 Март/1.0.0": {
+        "runtime": {
+          "Лекция 4 - 19-20 Март.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Лекция 4 - 19-20 Март/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

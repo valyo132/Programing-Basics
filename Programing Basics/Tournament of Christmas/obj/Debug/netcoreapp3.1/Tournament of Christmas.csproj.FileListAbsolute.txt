@@ -1,0 +1,14 @@
+M:\SoftUni\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.exe
+M:\SoftUni\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.deps.json
+M:\SoftUni\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.runtimeconfig.json
+M:\SoftUni\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.runtimeconfig.dev.json
+M:\SoftUni\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.dll
+M:\SoftUni\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.pdb
+M:\SoftUni\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.csproj.AssemblyReference.cache
+M:\SoftUni\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.AssemblyInfoInputs.cache
+M:\SoftUni\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.AssemblyInfo.cs
+M:\SoftUni\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.csproj.CoreCompileInputs.cache
+M:\SoftUni\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.dll
+M:\SoftUni\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.pdb
+M:\SoftUni\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\SoftUni\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.exe
+M:\SoftUni\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.deps.json
+M:\SoftUni\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.runtimeconfig.json
+M:\SoftUni\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.runtimeconfig.dev.json
+M:\SoftUni\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.dll
+M:\SoftUni\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.pdb
+M:\SoftUni\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.csproj.AssemblyReference.cache
+M:\SoftUni\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.AssemblyInfoInputs.cache
+M:\SoftUni\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.AssemblyInfo.cs
+M:\SoftUni\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.csproj.CoreCompileInputs.cache
+M:\SoftUni\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.dll
+M:\SoftUni\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.pdb
+M:\SoftUni\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.genruntimeconfig.cache

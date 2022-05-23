@@ -1,0 +1,14 @@
+M:\SoftUni\Renovation\bin\Debug\netcoreapp3.1\Renovation.exe
+M:\SoftUni\Renovation\bin\Debug\netcoreapp3.1\Renovation.deps.json
+M:\SoftUni\Renovation\bin\Debug\netcoreapp3.1\Renovation.runtimeconfig.json
+M:\SoftUni\Renovation\bin\Debug\netcoreapp3.1\Renovation.runtimeconfig.dev.json
+M:\SoftUni\Renovation\bin\Debug\netcoreapp3.1\Renovation.dll
+M:\SoftUni\Renovation\bin\Debug\netcoreapp3.1\Renovation.pdb
+M:\SoftUni\Renovation\obj\Debug\netcoreapp3.1\Renovation.csproj.AssemblyReference.cache
+M:\SoftUni\Renovation\obj\Debug\netcoreapp3.1\Renovation.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Renovation\obj\Debug\netcoreapp3.1\Renovation.AssemblyInfoInputs.cache
+M:\SoftUni\Renovation\obj\Debug\netcoreapp3.1\Renovation.AssemblyInfo.cs
+M:\SoftUni\Renovation\obj\Debug\netcoreapp3.1\Renovation.csproj.CoreCompileInputs.cache
+M:\SoftUni\Renovation\obj\Debug\netcoreapp3.1\Renovation.dll
+M:\SoftUni\Renovation\obj\Debug\netcoreapp3.1\Renovation.pdb
+M:\SoftUni\Renovation\obj\Debug\netcoreapp3.1\Renovation.genruntimeconfig.cache

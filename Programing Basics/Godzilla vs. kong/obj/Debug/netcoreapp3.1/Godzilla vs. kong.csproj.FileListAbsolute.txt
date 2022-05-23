@@ -1,0 +1,14 @@
+M:\SoftUni\Godzilla vs. kong\bin\Debug\netcoreapp3.1\Godzilla vs. kong.exe
+M:\SoftUni\Godzilla vs. kong\bin\Debug\netcoreapp3.1\Godzilla vs. kong.deps.json
+M:\SoftUni\Godzilla vs. kong\bin\Debug\netcoreapp3.1\Godzilla vs. kong.runtimeconfig.json
+M:\SoftUni\Godzilla vs. kong\bin\Debug\netcoreapp3.1\Godzilla vs. kong.runtimeconfig.dev.json
+M:\SoftUni\Godzilla vs. kong\bin\Debug\netcoreapp3.1\Godzilla vs. kong.dll
+M:\SoftUni\Godzilla vs. kong\bin\Debug\netcoreapp3.1\Godzilla vs. kong.pdb
+M:\SoftUni\Godzilla vs. kong\obj\Debug\netcoreapp3.1\Godzilla vs. kong.csproj.AssemblyReference.cache
+M:\SoftUni\Godzilla vs. kong\obj\Debug\netcoreapp3.1\Godzilla vs. kong.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Godzilla vs. kong\obj\Debug\netcoreapp3.1\Godzilla vs. kong.AssemblyInfoInputs.cache
+M:\SoftUni\Godzilla vs. kong\obj\Debug\netcoreapp3.1\Godzilla vs. kong.AssemblyInfo.cs
+M:\SoftUni\Godzilla vs. kong\obj\Debug\netcoreapp3.1\Godzilla vs. kong.csproj.CoreCompileInputs.cache
+M:\SoftUni\Godzilla vs. kong\obj\Debug\netcoreapp3.1\Godzilla vs. kong.dll
+M:\SoftUni\Godzilla vs. kong\obj\Debug\netcoreapp3.1\Godzilla vs. kong.pdb
+M:\SoftUni\Godzilla vs. kong\obj\Debug\netcoreapp3.1\Godzilla vs. kong.genruntimeconfig.cache

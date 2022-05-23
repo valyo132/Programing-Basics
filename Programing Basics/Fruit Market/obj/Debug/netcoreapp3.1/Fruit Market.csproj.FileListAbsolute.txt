@@ -1,0 +1,14 @@
+M:\SoftUni\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.exe
+M:\SoftUni\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.deps.json
+M:\SoftUni\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.runtimeconfig.json
+M:\SoftUni\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.runtimeconfig.dev.json
+M:\SoftUni\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.dll
+M:\SoftUni\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.pdb
+M:\SoftUni\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.csproj.AssemblyReference.cache
+M:\SoftUni\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.AssemblyInfoInputs.cache
+M:\SoftUni\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.AssemblyInfo.cs
+M:\SoftUni\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.csproj.CoreCompileInputs.cache
+M:\SoftUni\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.dll
+M:\SoftUni\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.pdb
+M:\SoftUni\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.genruntimeconfig.cache

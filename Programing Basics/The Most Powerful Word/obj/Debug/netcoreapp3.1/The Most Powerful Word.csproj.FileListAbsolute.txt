@@ -1,0 +1,14 @@
+M:\SoftUni\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.exe
+M:\SoftUni\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.deps.json
+M:\SoftUni\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.runtimeconfig.json
+M:\SoftUni\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.runtimeconfig.dev.json
+M:\SoftUni\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.dll
+M:\SoftUni\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.pdb
+M:\SoftUni\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.csproj.AssemblyReference.cache
+M:\SoftUni\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.AssemblyInfoInputs.cache
+M:\SoftUni\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.AssemblyInfo.cs
+M:\SoftUni\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.csproj.CoreCompileInputs.cache
+M:\SoftUni\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.dll
+M:\SoftUni\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.pdb
+M:\SoftUni\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.genruntimeconfig.cache

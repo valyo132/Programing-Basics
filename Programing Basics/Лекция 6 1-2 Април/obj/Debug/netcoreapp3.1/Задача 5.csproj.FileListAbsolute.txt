@@ -1,0 +1,14 @@
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Задача 5.exe
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Задача 5.deps.json
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Задача 5.runtimeconfig.json
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Задача 5.runtimeconfig.dev.json
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Задача 5.dll
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Задача 5.pdb
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Задача 5.csproj.AssemblyReference.cache
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Задача 5.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Задача 5.AssemblyInfoInputs.cache
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Задача 5.AssemblyInfo.cs
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Задача 5.csproj.CoreCompileInputs.cache
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Задача 5.dll
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Задача 5.pdb
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Задача 5.genruntimeconfig.cache

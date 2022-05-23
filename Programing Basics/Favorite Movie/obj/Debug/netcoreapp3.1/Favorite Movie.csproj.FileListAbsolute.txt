@@ -1,0 +1,14 @@
+M:\SoftUni\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.exe
+M:\SoftUni\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.deps.json
+M:\SoftUni\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.runtimeconfig.json
+M:\SoftUni\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.runtimeconfig.dev.json
+M:\SoftUni\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.dll
+M:\SoftUni\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.pdb
+M:\SoftUni\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.csproj.AssemblyReference.cache
+M:\SoftUni\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.AssemblyInfoInputs.cache
+M:\SoftUni\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.AssemblyInfo.cs
+M:\SoftUni\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.csproj.CoreCompileInputs.cache
+M:\SoftUni\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.dll
+M:\SoftUni\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.pdb
+M:\SoftUni\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.genruntimeconfig.cache

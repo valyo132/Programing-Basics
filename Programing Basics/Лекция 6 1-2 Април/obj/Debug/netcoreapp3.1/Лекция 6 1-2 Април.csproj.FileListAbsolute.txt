@@ -1,0 +1,14 @@
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Лекция 6 1-2 Април.exe
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Лекция 6 1-2 Април.deps.json
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Лекция 6 1-2 Април.runtimeconfig.json
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Лекция 6 1-2 Април.runtimeconfig.dev.json
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Лекция 6 1-2 Април.dll
+M:\SoftUni\Лекция 6 1-2 Април\bin\Debug\netcoreapp3.1\Лекция 6 1-2 Април.pdb
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Лекция 6 1-2 Април.csproj.AssemblyReference.cache
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Лекция 6 1-2 Април.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Лекция 6 1-2 Април.AssemblyInfoInputs.cache
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Лекция 6 1-2 Април.AssemblyInfo.cs
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Лекция 6 1-2 Април.csproj.CoreCompileInputs.cache
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Лекция 6 1-2 Април.dll
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Лекция 6 1-2 Април.pdb
+M:\SoftUni\Лекция 6 1-2 Април\obj\Debug\netcoreapp3.1\Лекция 6 1-2 Април.genruntimeconfig.cache

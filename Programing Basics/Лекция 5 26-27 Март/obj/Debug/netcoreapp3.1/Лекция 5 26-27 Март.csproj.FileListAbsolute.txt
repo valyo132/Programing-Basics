@@ -1,0 +1,14 @@
+M:\SoftUni\Лекция 5 26-27 Март\bin\Debug\netcoreapp3.1\Лекция 5 26-27 Март.exe
+M:\SoftUni\Лекция 5 26-27 Март\bin\Debug\netcoreapp3.1\Лекция 5 26-27 Март.deps.json
+M:\SoftUni\Лекция 5 26-27 Март\bin\Debug\netcoreapp3.1\Лекция 5 26-27 Март.runtimeconfig.json
+M:\SoftUni\Лекция 5 26-27 Март\bin\Debug\netcoreapp3.1\Лекция 5 26-27 Март.runtimeconfig.dev.json
+M:\SoftUni\Лекция 5 26-27 Март\bin\Debug\netcoreapp3.1\Лекция 5 26-27 Март.dll
+M:\SoftUni\Лекция 5 26-27 Март\bin\Debug\netcoreapp3.1\Лекция 5 26-27 Март.pdb
+M:\SoftUni\Лекция 5 26-27 Март\obj\Debug\netcoreapp3.1\Лекция 5 26-27 Март.csproj.AssemblyReference.cache
+M:\SoftUni\Лекция 5 26-27 Март\obj\Debug\netcoreapp3.1\Лекция 5 26-27 Март.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Лекция 5 26-27 Март\obj\Debug\netcoreapp3.1\Лекция 5 26-27 Март.AssemblyInfoInputs.cache
+M:\SoftUni\Лекция 5 26-27 Март\obj\Debug\netcoreapp3.1\Лекция 5 26-27 Март.AssemblyInfo.cs
+M:\SoftUni\Лекция 5 26-27 Март\obj\Debug\netcoreapp3.1\Лекция 5 26-27 Март.csproj.CoreCompileInputs.cache
+M:\SoftUni\Лекция 5 26-27 Март\obj\Debug\netcoreapp3.1\Лекция 5 26-27 Март.dll
+M:\SoftUni\Лекция 5 26-27 Март\obj\Debug\netcoreapp3.1\Лекция 5 26-27 Март.pdb
+M:\SoftUni\Лекция 5 26-27 Март\obj\Debug\netcoreapp3.1\Лекция 5 26-27 Март.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\SoftUni\Задача 3\bin\Debug\netcoreapp3.1\Задача 3.exe
+M:\SoftUni\Задача 3\bin\Debug\netcoreapp3.1\Задача 3.deps.json
+M:\SoftUni\Задача 3\bin\Debug\netcoreapp3.1\Задача 3.runtimeconfig.json
+M:\SoftUni\Задача 3\bin\Debug\netcoreapp3.1\Задача 3.runtimeconfig.dev.json
+M:\SoftUni\Задача 3\bin\Debug\netcoreapp3.1\Задача 3.dll
+M:\SoftUni\Задача 3\bin\Debug\netcoreapp3.1\Задача 3.pdb
+M:\SoftUni\Задача 3\obj\Debug\netcoreapp3.1\Задача 3.csproj.AssemblyReference.cache
+M:\SoftUni\Задача 3\obj\Debug\netcoreapp3.1\Задача 3.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Задача 3\obj\Debug\netcoreapp3.1\Задача 3.AssemblyInfoInputs.cache
+M:\SoftUni\Задача 3\obj\Debug\netcoreapp3.1\Задача 3.AssemblyInfo.cs
+M:\SoftUni\Задача 3\obj\Debug\netcoreapp3.1\Задача 3.csproj.CoreCompileInputs.cache
+M:\SoftUni\Задача 3\obj\Debug\netcoreapp3.1\Задача 3.dll
+M:\SoftUni\Задача 3\obj\Debug\netcoreapp3.1\Задача 3.pdb
+M:\SoftUni\Задача 3\obj\Debug\netcoreapp3.1\Задача 3.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\SoftUni\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.exe
+M:\SoftUni\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.deps.json
+M:\SoftUni\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.runtimeconfig.json
+M:\SoftUni\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.runtimeconfig.dev.json
+M:\SoftUni\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.dll
+M:\SoftUni\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.pdb
+M:\SoftUni\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.csproj.AssemblyReference.cache
+M:\SoftUni\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.AssemblyInfoInputs.cache
+M:\SoftUni\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.AssemblyInfo.cs
+M:\SoftUni\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.csproj.CoreCompileInputs.cache
+M:\SoftUni\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.dll
+M:\SoftUni\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.pdb
+M:\SoftUni\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.genruntimeconfig.cache

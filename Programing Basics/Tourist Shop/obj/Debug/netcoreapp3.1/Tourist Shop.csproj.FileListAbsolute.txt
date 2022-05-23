@@ -1,0 +1,14 @@
+M:\SoftUni\Tourist Shop\bin\Debug\netcoreapp3.1\Tourist Shop.exe
+M:\SoftUni\Tourist Shop\bin\Debug\netcoreapp3.1\Tourist Shop.deps.json
+M:\SoftUni\Tourist Shop\bin\Debug\netcoreapp3.1\Tourist Shop.runtimeconfig.json
+M:\SoftUni\Tourist Shop\bin\Debug\netcoreapp3.1\Tourist Shop.runtimeconfig.dev.json
+M:\SoftUni\Tourist Shop\bin\Debug\netcoreapp3.1\Tourist Shop.dll
+M:\SoftUni\Tourist Shop\bin\Debug\netcoreapp3.1\Tourist Shop.pdb
+M:\SoftUni\Tourist Shop\obj\Debug\netcoreapp3.1\Tourist Shop.csproj.AssemblyReference.cache
+M:\SoftUni\Tourist Shop\obj\Debug\netcoreapp3.1\Tourist Shop.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Tourist Shop\obj\Debug\netcoreapp3.1\Tourist Shop.AssemblyInfoInputs.cache
+M:\SoftUni\Tourist Shop\obj\Debug\netcoreapp3.1\Tourist Shop.AssemblyInfo.cs
+M:\SoftUni\Tourist Shop\obj\Debug\netcoreapp3.1\Tourist Shop.csproj.CoreCompileInputs.cache
+M:\SoftUni\Tourist Shop\obj\Debug\netcoreapp3.1\Tourist Shop.dll
+M:\SoftUni\Tourist Shop\obj\Debug\netcoreapp3.1\Tourist Shop.pdb
+M:\SoftUni\Tourist Shop\obj\Debug\netcoreapp3.1\Tourist Shop.genruntimeconfig.cache

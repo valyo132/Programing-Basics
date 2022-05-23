@@ -1,0 +1,14 @@
+M:\SoftUni\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.exe
+M:\SoftUni\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.deps.json
+M:\SoftUni\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.runtimeconfig.json
+M:\SoftUni\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.runtimeconfig.dev.json
+M:\SoftUni\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.dll
+M:\SoftUni\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.pdb
+M:\SoftUni\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.csproj.AssemblyReference.cache
+M:\SoftUni\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.AssemblyInfoInputs.cache
+M:\SoftUni\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.AssemblyInfo.cs
+M:\SoftUni\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.csproj.CoreCompileInputs.cache
+M:\SoftUni\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.dll
+M:\SoftUni\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.pdb
+M:\SoftUni\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.genruntimeconfig.cache

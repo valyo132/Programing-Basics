@@ -1,0 +1,14 @@
+M:\SoftUni\Agency Profit\bin\Debug\netcoreapp3.1\Agency Profit.exe
+M:\SoftUni\Agency Profit\bin\Debug\netcoreapp3.1\Agency Profit.deps.json
+M:\SoftUni\Agency Profit\bin\Debug\netcoreapp3.1\Agency Profit.runtimeconfig.json
+M:\SoftUni\Agency Profit\bin\Debug\netcoreapp3.1\Agency Profit.runtimeconfig.dev.json
+M:\SoftUni\Agency Profit\bin\Debug\netcoreapp3.1\Agency Profit.dll
+M:\SoftUni\Agency Profit\bin\Debug\netcoreapp3.1\Agency Profit.pdb
+M:\SoftUni\Agency Profit\obj\Debug\netcoreapp3.1\Agency Profit.csproj.AssemblyReference.cache
+M:\SoftUni\Agency Profit\obj\Debug\netcoreapp3.1\Agency Profit.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Agency Profit\obj\Debug\netcoreapp3.1\Agency Profit.AssemblyInfoInputs.cache
+M:\SoftUni\Agency Profit\obj\Debug\netcoreapp3.1\Agency Profit.AssemblyInfo.cs
+M:\SoftUni\Agency Profit\obj\Debug\netcoreapp3.1\Agency Profit.csproj.CoreCompileInputs.cache
+M:\SoftUni\Agency Profit\obj\Debug\netcoreapp3.1\Agency Profit.dll
+M:\SoftUni\Agency Profit\obj\Debug\netcoreapp3.1\Agency Profit.pdb
+M:\SoftUni\Agency Profit\obj\Debug\netcoreapp3.1\Agency Profit.genruntimeconfig.cache

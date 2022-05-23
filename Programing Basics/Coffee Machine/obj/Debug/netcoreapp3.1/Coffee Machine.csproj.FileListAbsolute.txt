@@ -1,0 +1,14 @@
+M:\SoftUni\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.exe
+M:\SoftUni\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.deps.json
+M:\SoftUni\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.runtimeconfig.json
+M:\SoftUni\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.runtimeconfig.dev.json
+M:\SoftUni\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.dll
+M:\SoftUni\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.pdb
+M:\SoftUni\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.csproj.AssemblyReference.cache
+M:\SoftUni\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.AssemblyInfoInputs.cache
+M:\SoftUni\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.AssemblyInfo.cs
+M:\SoftUni\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.csproj.CoreCompileInputs.cache
+M:\SoftUni\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.dll
+M:\SoftUni\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.pdb
+M:\SoftUni\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.genruntimeconfig.cache

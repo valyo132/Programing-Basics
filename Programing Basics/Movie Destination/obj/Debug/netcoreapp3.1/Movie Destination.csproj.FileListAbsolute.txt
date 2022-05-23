@@ -1,0 +1,14 @@
+M:\SoftUni\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.exe
+M:\SoftUni\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.deps.json
+M:\SoftUni\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.runtimeconfig.json
+M:\SoftUni\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.runtimeconfig.dev.json
+M:\SoftUni\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.dll
+M:\SoftUni\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.pdb
+M:\SoftUni\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.csproj.AssemblyReference.cache
+M:\SoftUni\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.AssemblyInfoInputs.cache
+M:\SoftUni\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.AssemblyInfo.cs
+M:\SoftUni\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.csproj.CoreCompileInputs.cache
+M:\SoftUni\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.dll
+M:\SoftUni\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.pdb
+M:\SoftUni\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.genruntimeconfig.cache

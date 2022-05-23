@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cinema Voucher/1.0.0": {
+        "runtime": {
+          "Cinema Voucher.dll": {}
+        }
+      },
+      "Oscars Ceremony/1.0.0": {
+        "runtime": {
+          "Oscars Ceremony.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cinema Voucher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oscars Ceremony/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

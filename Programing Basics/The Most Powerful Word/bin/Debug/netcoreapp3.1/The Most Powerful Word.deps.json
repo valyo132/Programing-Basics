@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "The Most Powerful Word/1.0.0": {
+        "runtime": {
+          "The Most Powerful Word.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The Most Powerful Word/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

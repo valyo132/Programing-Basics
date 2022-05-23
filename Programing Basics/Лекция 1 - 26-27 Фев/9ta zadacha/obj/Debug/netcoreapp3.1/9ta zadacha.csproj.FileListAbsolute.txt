@@ -1,0 +1,13 @@
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\bin\Debug\netcoreapp3.1\9ta zadacha.exe
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\bin\Debug\netcoreapp3.1\9ta zadacha.deps.json
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\bin\Debug\netcoreapp3.1\9ta zadacha.runtimeconfig.json
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\bin\Debug\netcoreapp3.1\9ta zadacha.runtimeconfig.dev.json
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\bin\Debug\netcoreapp3.1\9ta zadacha.dll
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\bin\Debug\netcoreapp3.1\9ta zadacha.pdb
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\obj\Debug\netcoreapp3.1\9ta zadacha.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\obj\Debug\netcoreapp3.1\9ta zadacha.AssemblyInfoInputs.cache
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\obj\Debug\netcoreapp3.1\9ta zadacha.AssemblyInfo.cs
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\obj\Debug\netcoreapp3.1\9ta zadacha.csproj.CoreCompileInputs.cache
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\obj\Debug\netcoreapp3.1\9ta zadacha.dll
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\obj\Debug\netcoreapp3.1\9ta zadacha.pdb
+M:\SoftUni\Лекция 1 - 26.02.2022\9ta zadacha\obj\Debug\netcoreapp3.1\9ta zadacha.genruntimeconfig.cache

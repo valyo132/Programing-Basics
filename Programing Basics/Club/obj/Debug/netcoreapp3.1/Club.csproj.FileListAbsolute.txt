@@ -1,0 +1,14 @@
+M:\SoftUni\Club\bin\Debug\netcoreapp3.1\Club.exe
+M:\SoftUni\Club\bin\Debug\netcoreapp3.1\Club.deps.json
+M:\SoftUni\Club\bin\Debug\netcoreapp3.1\Club.runtimeconfig.json
+M:\SoftUni\Club\bin\Debug\netcoreapp3.1\Club.runtimeconfig.dev.json
+M:\SoftUni\Club\bin\Debug\netcoreapp3.1\Club.dll
+M:\SoftUni\Club\bin\Debug\netcoreapp3.1\Club.pdb
+M:\SoftUni\Club\obj\Debug\netcoreapp3.1\Club.csproj.AssemblyReference.cache
+M:\SoftUni\Club\obj\Debug\netcoreapp3.1\Club.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Club\obj\Debug\netcoreapp3.1\Club.AssemblyInfoInputs.cache
+M:\SoftUni\Club\obj\Debug\netcoreapp3.1\Club.AssemblyInfo.cs
+M:\SoftUni\Club\obj\Debug\netcoreapp3.1\Club.csproj.CoreCompileInputs.cache
+M:\SoftUni\Club\obj\Debug\netcoreapp3.1\Club.dll
+M:\SoftUni\Club\obj\Debug\netcoreapp3.1\Club.pdb
+M:\SoftUni\Club\obj\Debug\netcoreapp3.1\Club.genruntimeconfig.cache

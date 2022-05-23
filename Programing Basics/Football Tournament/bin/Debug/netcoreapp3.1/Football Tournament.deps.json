@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Football Tournament/1.0.0": {
+        "runtime": {
+          "Football Tournament.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Football Tournament/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

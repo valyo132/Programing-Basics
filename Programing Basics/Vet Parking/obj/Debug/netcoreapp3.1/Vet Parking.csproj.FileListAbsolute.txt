@@ -1,0 +1,14 @@
+M:\SoftUni\Vet Parking\bin\Debug\netcoreapp3.1\Vet Parking.exe
+M:\SoftUni\Vet Parking\bin\Debug\netcoreapp3.1\Vet Parking.deps.json
+M:\SoftUni\Vet Parking\bin\Debug\netcoreapp3.1\Vet Parking.runtimeconfig.json
+M:\SoftUni\Vet Parking\bin\Debug\netcoreapp3.1\Vet Parking.runtimeconfig.dev.json
+M:\SoftUni\Vet Parking\bin\Debug\netcoreapp3.1\Vet Parking.dll
+M:\SoftUni\Vet Parking\bin\Debug\netcoreapp3.1\Vet Parking.pdb
+M:\SoftUni\Vet Parking\obj\Debug\netcoreapp3.1\Vet Parking.csproj.AssemblyReference.cache
+M:\SoftUni\Vet Parking\obj\Debug\netcoreapp3.1\Vet Parking.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Vet Parking\obj\Debug\netcoreapp3.1\Vet Parking.AssemblyInfoInputs.cache
+M:\SoftUni\Vet Parking\obj\Debug\netcoreapp3.1\Vet Parking.AssemblyInfo.cs
+M:\SoftUni\Vet Parking\obj\Debug\netcoreapp3.1\Vet Parking.csproj.CoreCompileInputs.cache
+M:\SoftUni\Vet Parking\obj\Debug\netcoreapp3.1\Vet Parking.dll
+M:\SoftUni\Vet Parking\obj\Debug\netcoreapp3.1\Vet Parking.pdb
+M:\SoftUni\Vet Parking\obj\Debug\netcoreapp3.1\Vet Parking.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\SoftUni\Add Bags\bin\Debug\netcoreapp3.1\Add Bags.exe
+M:\SoftUni\Add Bags\bin\Debug\netcoreapp3.1\Add Bags.deps.json
+M:\SoftUni\Add Bags\bin\Debug\netcoreapp3.1\Add Bags.runtimeconfig.json
+M:\SoftUni\Add Bags\bin\Debug\netcoreapp3.1\Add Bags.runtimeconfig.dev.json
+M:\SoftUni\Add Bags\bin\Debug\netcoreapp3.1\Add Bags.dll
+M:\SoftUni\Add Bags\bin\Debug\netcoreapp3.1\Add Bags.pdb
+M:\SoftUni\Add Bags\obj\Debug\netcoreapp3.1\Add Bags.csproj.AssemblyReference.cache
+M:\SoftUni\Add Bags\obj\Debug\netcoreapp3.1\Add Bags.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Add Bags\obj\Debug\netcoreapp3.1\Add Bags.AssemblyInfoInputs.cache
+M:\SoftUni\Add Bags\obj\Debug\netcoreapp3.1\Add Bags.AssemblyInfo.cs
+M:\SoftUni\Add Bags\obj\Debug\netcoreapp3.1\Add Bags.csproj.CoreCompileInputs.cache
+M:\SoftUni\Add Bags\obj\Debug\netcoreapp3.1\Add Bags.dll
+M:\SoftUni\Add Bags\obj\Debug\netcoreapp3.1\Add Bags.pdb
+M:\SoftUni\Add Bags\obj\Debug\netcoreapp3.1\Add Bags.genruntimeconfig.cache

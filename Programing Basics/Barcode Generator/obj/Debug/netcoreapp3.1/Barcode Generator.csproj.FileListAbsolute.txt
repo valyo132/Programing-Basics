@@ -1,0 +1,14 @@
+M:\SoftUni\Barcode Generator\bin\Debug\netcoreapp3.1\Barcode Generator.exe
+M:\SoftUni\Barcode Generator\bin\Debug\netcoreapp3.1\Barcode Generator.deps.json
+M:\SoftUni\Barcode Generator\bin\Debug\netcoreapp3.1\Barcode Generator.runtimeconfig.json
+M:\SoftUni\Barcode Generator\bin\Debug\netcoreapp3.1\Barcode Generator.runtimeconfig.dev.json
+M:\SoftUni\Barcode Generator\bin\Debug\netcoreapp3.1\Barcode Generator.dll
+M:\SoftUni\Barcode Generator\bin\Debug\netcoreapp3.1\Barcode Generator.pdb
+M:\SoftUni\Barcode Generator\obj\Debug\netcoreapp3.1\Barcode Generator.csproj.AssemblyReference.cache
+M:\SoftUni\Barcode Generator\obj\Debug\netcoreapp3.1\Barcode Generator.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Barcode Generator\obj\Debug\netcoreapp3.1\Barcode Generator.AssemblyInfoInputs.cache
+M:\SoftUni\Barcode Generator\obj\Debug\netcoreapp3.1\Barcode Generator.AssemblyInfo.cs
+M:\SoftUni\Barcode Generator\obj\Debug\netcoreapp3.1\Barcode Generator.csproj.CoreCompileInputs.cache
+M:\SoftUni\Barcode Generator\obj\Debug\netcoreapp3.1\Barcode Generator.dll
+M:\SoftUni\Barcode Generator\obj\Debug\netcoreapp3.1\Barcode Generator.pdb
+M:\SoftUni\Barcode Generator\obj\Debug\netcoreapp3.1\Barcode Generator.genruntimeconfig.cache

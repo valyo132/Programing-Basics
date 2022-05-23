@@ -1,0 +1,14 @@
+M:\SoftUni\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.exe
+M:\SoftUni\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.deps.json
+M:\SoftUni\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.runtimeconfig.json
+M:\SoftUni\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.runtimeconfig.dev.json
+M:\SoftUni\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.dll
+M:\SoftUni\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.pdb
+M:\SoftUni\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.csproj.AssemblyReference.cache
+M:\SoftUni\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.AssemblyInfoInputs.cache
+M:\SoftUni\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.AssemblyInfo.cs
+M:\SoftUni\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.csproj.CoreCompileInputs.cache
+M:\SoftUni\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.dll
+M:\SoftUni\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.pdb
+M:\SoftUni\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.genruntimeconfig.cache

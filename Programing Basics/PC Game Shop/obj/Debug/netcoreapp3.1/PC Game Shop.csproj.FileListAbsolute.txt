@@ -1,0 +1,14 @@
+M:\SoftUni\PC Game Shop\bin\Debug\netcoreapp3.1\PC Game Shop.exe
+M:\SoftUni\PC Game Shop\bin\Debug\netcoreapp3.1\PC Game Shop.deps.json
+M:\SoftUni\PC Game Shop\bin\Debug\netcoreapp3.1\PC Game Shop.runtimeconfig.json
+M:\SoftUni\PC Game Shop\bin\Debug\netcoreapp3.1\PC Game Shop.runtimeconfig.dev.json
+M:\SoftUni\PC Game Shop\bin\Debug\netcoreapp3.1\PC Game Shop.dll
+M:\SoftUni\PC Game Shop\bin\Debug\netcoreapp3.1\PC Game Shop.pdb
+M:\SoftUni\PC Game Shop\obj\Debug\netcoreapp3.1\PC Game Shop.csproj.AssemblyReference.cache
+M:\SoftUni\PC Game Shop\obj\Debug\netcoreapp3.1\PC Game Shop.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\PC Game Shop\obj\Debug\netcoreapp3.1\PC Game Shop.AssemblyInfoInputs.cache
+M:\SoftUni\PC Game Shop\obj\Debug\netcoreapp3.1\PC Game Shop.AssemblyInfo.cs
+M:\SoftUni\PC Game Shop\obj\Debug\netcoreapp3.1\PC Game Shop.csproj.CoreCompileInputs.cache
+M:\SoftUni\PC Game Shop\obj\Debug\netcoreapp3.1\PC Game Shop.dll
+M:\SoftUni\PC Game Shop\obj\Debug\netcoreapp3.1\PC Game Shop.pdb
+M:\SoftUni\PC Game Shop\obj\Debug\netcoreapp3.1\PC Game Shop.genruntimeconfig.cache

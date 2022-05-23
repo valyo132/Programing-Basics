@@ -1,0 +1,14 @@
+M:\SoftUni\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+M:\SoftUni\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+M:\SoftUni\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+M:\SoftUni\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+M:\SoftUni\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+M:\SoftUni\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+M:\SoftUni\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.AssemblyReference.cache
+M:\SoftUni\Cinema\obj\Debug\netcoreapp3.1\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+M:\SoftUni\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+M:\SoftUni\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
+M:\SoftUni\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+M:\SoftUni\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
+M:\SoftUni\Cinema\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache

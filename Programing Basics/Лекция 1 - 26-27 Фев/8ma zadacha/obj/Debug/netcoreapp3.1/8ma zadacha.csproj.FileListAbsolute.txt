@@ -1,0 +1,14 @@
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\bin\Debug\netcoreapp3.1\8ma zadacha.exe
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\bin\Debug\netcoreapp3.1\8ma zadacha.deps.json
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\bin\Debug\netcoreapp3.1\8ma zadacha.runtimeconfig.json
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\bin\Debug\netcoreapp3.1\8ma zadacha.runtimeconfig.dev.json
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\bin\Debug\netcoreapp3.1\8ma zadacha.dll
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\bin\Debug\netcoreapp3.1\8ma zadacha.pdb
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\obj\Debug\netcoreapp3.1\8ma zadacha.csproj.AssemblyReference.cache
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\obj\Debug\netcoreapp3.1\8ma zadacha.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\obj\Debug\netcoreapp3.1\8ma zadacha.AssemblyInfoInputs.cache
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\obj\Debug\netcoreapp3.1\8ma zadacha.AssemblyInfo.cs
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\obj\Debug\netcoreapp3.1\8ma zadacha.csproj.CoreCompileInputs.cache
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\obj\Debug\netcoreapp3.1\8ma zadacha.dll
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\obj\Debug\netcoreapp3.1\8ma zadacha.pdb
+M:\SoftUni\Лекция 1 - 26.02.2022\8ma zadacha\obj\Debug\netcoreapp3.1\8ma zadacha.genruntimeconfig.cache

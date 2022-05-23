@@ -1,0 +1,14 @@
+M:\SoftUni\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.exe
+M:\SoftUni\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.deps.json
+M:\SoftUni\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.runtimeconfig.json
+M:\SoftUni\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.runtimeconfig.dev.json
+M:\SoftUni\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.dll
+M:\SoftUni\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.pdb
+M:\SoftUni\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.csproj.AssemblyReference.cache
+M:\SoftUni\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.AssemblyInfoInputs.cache
+M:\SoftUni\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.AssemblyInfo.cs
+M:\SoftUni\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.csproj.CoreCompileInputs.cache
+M:\SoftUni\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.dll
+M:\SoftUni\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.pdb
+M:\SoftUni\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Division Without Remainder/1.0.0": {
+        "runtime": {
+          "Division Without Remainder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Division Without Remainder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

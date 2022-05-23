@@ -1,0 +1,14 @@
+M:\SoftUni\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.exe
+M:\SoftUni\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.deps.json
+M:\SoftUni\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.runtimeconfig.json
+M:\SoftUni\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.runtimeconfig.dev.json
+M:\SoftUni\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.dll
+M:\SoftUni\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.pdb
+M:\SoftUni\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.csproj.AssemblyReference.cache
+M:\SoftUni\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.AssemblyInfoInputs.cache
+M:\SoftUni\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.AssemblyInfo.cs
+M:\SoftUni\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.csproj.CoreCompileInputs.cache
+M:\SoftUni\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.dll
+M:\SoftUni\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.pdb
+M:\SoftUni\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.genruntimeconfig.cache

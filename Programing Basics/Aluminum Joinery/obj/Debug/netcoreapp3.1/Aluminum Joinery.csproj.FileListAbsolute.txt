@@ -1,0 +1,14 @@
+M:\SoftUni\Aluminum Joinery\bin\Debug\netcoreapp3.1\Aluminum Joinery.exe
+M:\SoftUni\Aluminum Joinery\bin\Debug\netcoreapp3.1\Aluminum Joinery.deps.json
+M:\SoftUni\Aluminum Joinery\bin\Debug\netcoreapp3.1\Aluminum Joinery.runtimeconfig.json
+M:\SoftUni\Aluminum Joinery\bin\Debug\netcoreapp3.1\Aluminum Joinery.runtimeconfig.dev.json
+M:\SoftUni\Aluminum Joinery\bin\Debug\netcoreapp3.1\Aluminum Joinery.dll
+M:\SoftUni\Aluminum Joinery\bin\Debug\netcoreapp3.1\Aluminum Joinery.pdb
+M:\SoftUni\Aluminum Joinery\obj\Debug\netcoreapp3.1\Aluminum Joinery.csproj.AssemblyReference.cache
+M:\SoftUni\Aluminum Joinery\obj\Debug\netcoreapp3.1\Aluminum Joinery.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Aluminum Joinery\obj\Debug\netcoreapp3.1\Aluminum Joinery.AssemblyInfoInputs.cache
+M:\SoftUni\Aluminum Joinery\obj\Debug\netcoreapp3.1\Aluminum Joinery.AssemblyInfo.cs
+M:\SoftUni\Aluminum Joinery\obj\Debug\netcoreapp3.1\Aluminum Joinery.csproj.CoreCompileInputs.cache
+M:\SoftUni\Aluminum Joinery\obj\Debug\netcoreapp3.1\Aluminum Joinery.dll
+M:\SoftUni\Aluminum Joinery\obj\Debug\netcoreapp3.1\Aluminum Joinery.pdb
+M:\SoftUni\Aluminum Joinery\obj\Debug\netcoreapp3.1\Aluminum Joinery.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\SoftUni\Подготовка 01\bin\Debug\netcoreapp3.1\Oscars Ceremony.exe
+M:\SoftUni\Подготовка 01\bin\Debug\netcoreapp3.1\Oscars Ceremony.deps.json
+M:\SoftUni\Подготовка 01\bin\Debug\netcoreapp3.1\Oscars Ceremony.runtimeconfig.json
+M:\SoftUni\Подготовка 01\bin\Debug\netcoreapp3.1\Oscars Ceremony.runtimeconfig.dev.json
+M:\SoftUni\Подготовка 01\bin\Debug\netcoreapp3.1\Oscars Ceremony.dll
+M:\SoftUni\Подготовка 01\bin\Debug\netcoreapp3.1\Oscars Ceremony.pdb
+M:\SoftUni\Подготовка 01\obj\Debug\netcoreapp3.1\Oscars Ceremony.csproj.AssemblyReference.cache
+M:\SoftUni\Подготовка 01\obj\Debug\netcoreapp3.1\Oscars Ceremony.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Подготовка 01\obj\Debug\netcoreapp3.1\Oscars Ceremony.AssemblyInfoInputs.cache
+M:\SoftUni\Подготовка 01\obj\Debug\netcoreapp3.1\Oscars Ceremony.AssemblyInfo.cs
+M:\SoftUni\Подготовка 01\obj\Debug\netcoreapp3.1\Oscars Ceremony.csproj.CoreCompileInputs.cache
+M:\SoftUni\Подготовка 01\obj\Debug\netcoreapp3.1\Oscars Ceremony.dll
+M:\SoftUni\Подготовка 01\obj\Debug\netcoreapp3.1\Oscars Ceremony.pdb
+M:\SoftUni\Подготовка 01\obj\Debug\netcoreapp3.1\Oscars Ceremony.genruntimeconfig.cache

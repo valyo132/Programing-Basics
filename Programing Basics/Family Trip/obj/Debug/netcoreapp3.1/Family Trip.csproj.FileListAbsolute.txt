@@ -1,0 +1,14 @@
+M:\SoftUni\Family Trip\bin\Debug\netcoreapp3.1\Family Trip.exe
+M:\SoftUni\Family Trip\bin\Debug\netcoreapp3.1\Family Trip.deps.json
+M:\SoftUni\Family Trip\bin\Debug\netcoreapp3.1\Family Trip.runtimeconfig.json
+M:\SoftUni\Family Trip\bin\Debug\netcoreapp3.1\Family Trip.runtimeconfig.dev.json
+M:\SoftUni\Family Trip\bin\Debug\netcoreapp3.1\Family Trip.dll
+M:\SoftUni\Family Trip\bin\Debug\netcoreapp3.1\Family Trip.pdb
+M:\SoftUni\Family Trip\obj\Debug\netcoreapp3.1\Family Trip.csproj.AssemblyReference.cache
+M:\SoftUni\Family Trip\obj\Debug\netcoreapp3.1\Family Trip.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\Family Trip\obj\Debug\netcoreapp3.1\Family Trip.AssemblyInfoInputs.cache
+M:\SoftUni\Family Trip\obj\Debug\netcoreapp3.1\Family Trip.AssemblyInfo.cs
+M:\SoftUni\Family Trip\obj\Debug\netcoreapp3.1\Family Trip.csproj.CoreCompileInputs.cache
+M:\SoftUni\Family Trip\obj\Debug\netcoreapp3.1\Family Trip.dll
+M:\SoftUni\Family Trip\obj\Debug\netcoreapp3.1\Family Trip.pdb
+M:\SoftUni\Family Trip\obj\Debug\netcoreapp3.1\Family Trip.genruntimeconfig.cache
